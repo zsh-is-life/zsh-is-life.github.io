@@ -4,12 +4,12 @@
 
 # Site
 title: Abheet's blog
-subtitle: 'Welcome'
-description: ''
-keywords:
+subtitle: 'Computer Science, Signal Processing, Machine Learning'
+description: 'A quiet blog with occasional technical posts.. stay tuned'
+keywords: machine learning, linux, signal processing, computer science, cloud, networking
 author: Abheet L
 language: en
-timezone: ''
+timezone: 'Asia/Kolkata'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
