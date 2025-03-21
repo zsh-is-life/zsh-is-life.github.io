@@ -14,7 +14,7 @@ This guide will make use of Jekyll to generate your own blog. There are alternat
 
 5. Now, it is time to setup Jekyll on your machine. (
 
-   []: https://jekyllrb.com/docs/installation/	"Jekyll Installation Guide"
+   [Jekyll Installation Guide]: https://jekyllrb.com/docs/installation/	"Jekyll Installation Guide"
 
    ). Follow the guide, according to the OS of your machine. Your should now have Jekyll on your machine.
 
