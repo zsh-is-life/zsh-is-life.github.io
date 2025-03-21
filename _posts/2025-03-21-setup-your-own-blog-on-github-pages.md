@@ -1,6 +1,6 @@
 # Quick Crash Course on Setting Up on your own Blog on Github Pages
 
-This guide will make use of Jekyll to generate your own blog. There are alternatives to Jekyll, like Hugo, Hexo etc.
+This guide will make use of Jekyll to generate your own blog. There are alternatives to Jekyll, like Hugo, Hexo etc. but I'll stick with Jekyll. This guide is directed towards Linux users, though macOS users may be able to follow along just fine. Windows users should consider installing [WSL2](https://learn.microsoft.com/en-us/windows/wsl/install) on their computer.
 
 ### Steps
 
@@ -16,6 +16,7 @@ This guide will make use of Jekyll to generate your own blog. There are alternat
    1. You may run into problems when running the `git push` command. Github does not permit plain passwords anymore. You'll have to setup a [Personal Access Token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens).
 10. Check out the `https://github.com/your-username/your-username.github.io/actions` URL for any build errors. (Github attempts to parse the `markdown` and config files present and uses Jekyll to generate `html` files that browsers can parse and display)
 11. If no issues, feel free to visit `https://<your-username>.github.io` and check out your website.
+    1. I ran into an issue, I made an [indentation mistake](https://stackoverflow.com/questions/42247535/yaml-how-many-spaces-per-indent) when I was tweaking my `_config.yml` file - this is something worth keeping in mind.
 12. You may change your domain name here `https://github.com/your-username/your-username.github.io/settings/pages`
 
 ### Important Resources
